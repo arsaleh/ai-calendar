@@ -1,0 +1,5 @@
+ticker,price,pe_ratio,sector_pe,eps_growth_1y,analyst_target,summary
+NVDA,1180,44,30,0.32,1350,"Data center demand still climbing; GPU leadership intact"
+TSLA,210,55,28,0.12,240,"Energy + robotics optionality offsetting EV margin pressure"
+MSFT,425,35,30,0.18,480,"Cloud AI attach drives incremental margins"
+AAPL,195,28,27,0.06,210,"Services expansion offsets smartphone saturation"
