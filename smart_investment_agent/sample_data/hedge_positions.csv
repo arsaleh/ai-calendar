@@ -1,0 +1,10 @@
+fund_name,ticker,shares,market_value,portfolio_weight,qoq_change_pct
+Appaloosa,NVDA,120000,95000000,4.2,0.35
+Appaloosa,TSLA,85000,18000000,2.1,-0.15
+Bridgewater,NVDA,60000,47000000,3.6,0.25
+Bridgewater,AAPL,150000,27000000,1.8,0.1
+Citadel,MSFT,200000,72000000,3.1,0.45
+Citadel,NVDA,90000,71000000,3.9,0.4
+Coatue,TSLA,65000,13800000,1.6,-0.05
+Two Sigma,AAPL,180000,32000000,2.2,0.05
+Two Sigma,MSFT,160000,59000000,2.7,0.15
